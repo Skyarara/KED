@@ -1,0 +1,55 @@
+#option{
+    font-size:13px; 
+    border:none;
+    border-radius: 5px;
+}
+
+#date{
+    font-size:13px; 
+    border:none;
+    border-radius: 5px;
+    height:36.4px;
+    margin-left: 30px;
+    width: 95.6%;
+}
+
+#station{
+    font-size:13px; 
+    border:none;
+    border-radius: 5px;
+    height:36.4px;
+    margin-left: 30px;
+    width: 95.6%;
+}
+
+#search{
+    font-size:13px; 
+    border:none;
+    border-radius: 20px;
+    height:36.4px;
+    background: #1D2B36;
+
+}
+#print{
+    font-size:14px; 
+    color:white; 
+    border-radius: 20px;
+    text-align: center;
+    width: 150px;
+    background-color:#1D2B36;
+    height: 36.5px;
+}
+#iframe{
+    width: 100%; 
+    display: block; 
+    border: 0px; 
+    height: 300px; 
+    margin: 0px; 
+    position: absolute; 
+    left: 0px; right: 0px; top: 0px; bottom: 0px;
+}
+#myChart{
+    display: line; 
+    width: 471px; 
+    height: 300px;
+}

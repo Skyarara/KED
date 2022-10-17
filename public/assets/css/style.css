@@ -1,0 +1,18 @@
+
+.label-green {
+	color: #2ecc71
+}
+
+.form-inline-block {
+	display: inline-block;
+}
+
+.btn-dark {
+	background-color: #1D2B36;
+}
+
+.control-icheck span {
+	position: relative;
+	top: 1px;
+	left: 5px;
+}
